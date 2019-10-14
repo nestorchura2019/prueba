@@ -1,0 +1,34 @@
+﻿Nestor chura C.
+
+
+1. cual es el comando para listar el contenidode un directorio
+
+R. dir    
+    dir-l
+
+2 cual es el comando para ver carpetas ubicadas en la raiz
+
+R. cd /
+    dir
+
+3 desglose el uso de cada carpeta en raiz (/bin /lib /var /etc, etc)
+
+R. dir -ls
+
+4 cual es el comando para ver el tamaño del disco duro
+
+R. df -h 
+
+despliega la informacion de la particion usada por el usuario
+
+
+5 cual es el comando para ver los dispositivos USB conectados
+
+R. lsusb
+
+
+6 cual es el comando para ver la(s) direcciones IP?
+
+R. ifconfig
+
+
